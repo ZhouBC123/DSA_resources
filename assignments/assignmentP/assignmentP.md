@@ -57,8 +57,10 @@ Updated 1009 GMT+8 Feb 28, 2024
 
 网址：https://github.com/ZhouBC123/DSA_resources
 
-![](.assignmentP_images/屏幕截图 2024-06-22 103629.png)
-![](.assignmentP_images/屏幕截图 2024-06-22 103642.png)
+![](.assignmentP_images/103629.png)
+
+![](.assignmentP_images/103642.png)
+
 ## 3. 课程总结
 
 如果愿意，请同学或多或少做一个本门课程的学习总结。便于之后师弟师妹跟进学习，也便于教师和助教改进教学。例如：分享自己的学习心得、笔记。
